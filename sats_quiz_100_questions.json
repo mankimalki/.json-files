@@ -517,4 +517,7 @@
         "c": "52 cm²",
         "d": "54 cm²"
       },
-      "correct_answe
+      "correct_answer": "c",
+      "explanation": "Area = (1/2) × (sum of parallel sides) × height. So, 80 = (1/2) × (8 + 12) × h. Simplify: 80 = 10h, h = 8 cm. Option c is correct."
+    }
+  ]
